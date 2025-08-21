@@ -4,7 +4,7 @@ layout: default
 
 # Information
 
-| <img src="{{'/assets/images/pfp.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Alt text" width="300" height="200"> | **Ogayon, Aron Gabriel L** <br/>BSCS-3A |
+| <img src="{{'/assets/images/pfp.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Alt text" width="200" height="200"> | **Ogayon, Aron Gabriel L** <br/>BSCS-3A |
 |:---:|:---|
 
 # CSST101 - Advanced Presentation and Reasoning
