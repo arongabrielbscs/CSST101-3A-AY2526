@@ -8,7 +8,7 @@ layout: default
   <img src="{{'/assets/images/pfp.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Alt text" width="100" height="100">
   <div>
     <strong>Aron Gabriel L. Ogayon</strong><br>
-    <em>BSCS-2A</em>
+    <em>BSCS-3A</em>
   </div>
 </div>
 
