@@ -4,8 +4,13 @@ layout: default
 
 # Information
 
-| <img src="{{'/assets/images/pfp.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Alt text" width="200" height="200"> | **Ogayon, Aron Gabriel L** <br/>BSCS-3A |
-|:---:|:---|
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="{{'/assets/images/pfp.jpg?v=' | append: site.github.build_revision | relative_url }}" alt="Alt text" width="100" height="100">
+  <div>
+    <strong>Aron Gabriel L. Ogayon</strong><br>
+    <em>BSCS-2A</em>
+  </div>
+</div>
 
 # CSST101 - Advanced Presentation and Reasoning
 In the real world, a computer scientist's job isn't just about writing code. It's about collaborating with others, explaining your work, and defending your design decisions. APR equips students with the soft skills and analytical prowess needed to excel in these areas, preparing them for roles in research, software architecture, and management where communication and reasoning are just as critical as coding proficiency. I expect that this Subject can teach me this very well.
