@@ -54,8 +54,8 @@ The evolution from simple P → Q rules to the more complex (P ∧ Q) → R stru
 This mini expert system serves as a foundation for understanding how logical reasoning can be systematically applied to automate decision-making processes in educational and administrative contexts.
 
 ## Images of the Program Running
-![Alt text](/assets/images/pl/ss1.png "Image title")
-![Alt text](/assets/images/pl/ss2.png "Image title")
-![Alt text](/assets/images/pl/ss3.png "Image title")
-![Alt text](/assets/images/pl/ss4.png "Image title")
-![Alt text](/assets/images/pl/ss5.png "Image title")
+![Rule 1]({{ '/assets/images/pl/ss1.png?v=' | append: site.github.build_revision | relative_url }})
+![Rule 2]({{ '/assets/images/pl/ss2.png?v=' | append: site.github.build_revision | relative_url }})
+![Rule 3]({{ '/assets/images/pl/ss3.png?v=' | append: site.github.build_revision | relative_url }})
+![Rule 4]({{ '/assets/images/pl/ss4.png?v=' | append: site.github.build_revision | relative_url }})
+![Rule 5 New Rule]({{ '/assets/images/pl/ss5.png?v=' | append: site.github.build_revision | relative_url }})
