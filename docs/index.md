@@ -64,3 +64,12 @@ In the real world, a computer scientist's job isn't just about writing code. It'
     </div>
   </a>
 </div>
+
+<div class="projects-container">
+  <a href="{{ '/predicate_logic' | relative_url }}" target="_blank" class="project-card">
+    <div class="project-title">Predicate Logic</div>
+    <div class="project-description">
+      A Basic Use case of predicate logic
+    </div>
+  </a>
+</div>
